@@ -1,5 +1,4 @@
 #package installations
-python -m pip install -U --force-reinstall yfinance 
 import pandas as pd
 import streamlit as st
 import yfinance as yf
