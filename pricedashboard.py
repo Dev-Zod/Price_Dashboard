@@ -1,5 +1,5 @@
 #package installations
-pip install yfinance
+install yfinance==0.1.83
 import pandas as pd
 import streamlit as st
 import yfinance as yf
