@@ -1,5 +1,4 @@
 #package installations
-$ pip install yfinance --upgrade --no-cache-dir
 import pandas as pd
 import streamlit as st
 import yfinance as yf
