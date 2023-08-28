@@ -1,5 +1,5 @@
 #package installations
-!pip install yfinance
+!pip install yahoo-finance
 import pandas as pd
 import streamlit as st
 import yfinance as yf
