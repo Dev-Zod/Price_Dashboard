@@ -1,5 +1,5 @@
 #package installations
-!pip install yahoo-finance
+pip install -i https://pypi.anaconda.org/ranaroussi/simple finance
 import pandas as pd
 import streamlit as st
 import yfinance as yf
